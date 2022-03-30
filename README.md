@@ -8,7 +8,7 @@ Data sources & Python Notebooks:
 - `Fidenza metadata` containing trait values: scraped directly from the token URIs, see this <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_metadata_extraction_EDA.ipynb"> Python notebook </a> for more details.
 
 ##### Libraries used: 
-- `BeautifulSoup`
-- `request`
-- `pandas`, `matplotlib`, etc. 
+- BeautifulSoup
+- request
+- pandas, matplotlib and so on. 
 
