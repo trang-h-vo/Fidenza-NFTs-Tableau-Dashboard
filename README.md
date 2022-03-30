@@ -5,7 +5,11 @@ Data sources & Python Notebooks:
 
 - `Fidenza trades` on the Ethereum blockchain: queried from this <a href="https://evgemedvedev.medium.com/ethereum-blockchain-on-google-bigquery-283fb300f579"> Ethereum public dataset </a> built and hosted by Google BigQuery. A Python notebook with all steps will be added shortly.
 - `ETHUSD rates` by minute: extracted via the <a href="https://docs.coinapi.io/?python#timeseries-data-get"> free API </a> provided by CoinAPI. A Python notebook with all the steps will be added shortly.
-- `Fidenza metadata` containing trait values: scraped directly from the token URIs, see this <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_metadata_extraction_EDA.ipynb"> Python notebook </a> for more details.
+- `Fidenza metadata` containing trait values: scraped from the token URIs, see this <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_metadata_extraction_EDA.ipynb"> Python notebook </a> for more details.
+
+Last update: Mar 30, 2022. 
+
+Upcoming on Mar 31, 2022: A Python notebook on how I collected and prepare the transaction data, and the full dataset in .csv.
 
 ##### Libraries used: 
 - BeautifulSoup
