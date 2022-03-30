@@ -7,7 +7,12 @@ Datasets & sources:
 2. `ETHUSD rates` by minute: extracted via the <a href="https://docs.coinapi.io/?python#timeseries-data-get"> free API </a> provided by CoinAPI. 
 3. `Fidenza metadata` containing trait values: scraped from the token URIs, see this <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_metadata_extraction_EDA.ipynb"> Python notebook </a> for more details.
 
-See the Python code & datasets in this repository or get a quick view of the notebooks here: <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_trades_ETH_from_Goggle_BigQuery.ipynb"> (1) </a>, (2) - coming soon, and <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_metadata_extraction_EDA.ipynb"> (3) </a>.
+
+All the Python code & datasets used in the Tableau Dashboard are stored in this repository. 
+
+To get a quick view of the notebooks, see here: <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_trades_ETH_from_Goggle_BigQuery.ipynb"> part 1</a>, <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/ETHUSD_rates_from_CoinAPI.ipynb"> part 2</a> - *work in progress*, and <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_metadata_extraction_EDA.ipynb"> part 3</a>.
+
+
 
 ##### Libraries used: 
 - BeautifulSoup
