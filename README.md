@@ -10,7 +10,7 @@ Datasets & sources:
 
 All the Python code & datasets used in the Tableau Dashboard are stored in this repository. 
 
-To get a quick view of the notebooks, see here: <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_trades_ETH_from_Goggle_BigQuery.ipynb"> part 1</a>, <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/ETHUSD_rates_from_CoinAPI.ipynb"> part 2</a> - *work in progress*, and <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_metadata_extraction_EDA.ipynb"> part 3</a>.
+To get a quick view of the notebooks, see here: <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_trades_ETH_from_Goggle_BigQuery.ipynb"> part 1</a>, <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/ETHUSD_rates_from_CoinAPI.ipynb"> part 2</a>, and <a href="https://nbviewer.org/github/trang-h-vo/Fidenza-NFTs-Tableau-Dashboard/blob/main/Fidenza_metadata_extraction_EDA.ipynb"> part 3</a>.
 
 
 
